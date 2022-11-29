@@ -1,4 +1,4 @@
 # Automatic Belling
 This is an automatic belling software for schools, workspace and collages 
 
-![Screenshot](https://github.com/captainramkumar/automatic_belling/blob/main/assets/belling.jpg?raw=true)
+![Screenshot](https://blueburn.in/wp-content/uploads/2020/07/belling.jpg)
