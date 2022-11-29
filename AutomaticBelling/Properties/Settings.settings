@@ -1,0 +1,62 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutomaticBelling.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="nowtime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">01/10/2014 09:40:00</Value>
+    </Setting>
+    <Setting Name="timerstat" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="friday" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;09:25:00 AM&lt;/string&gt;
+  &lt;string&gt;09:30:00 AM&lt;/string&gt;
+  &lt;string&gt;09:30:22 AM&lt;/string&gt;
+  &lt;string&gt;10:30:00 AM&lt;/string&gt;
+  &lt;string&gt;11:30:00 AM&lt;/string&gt;
+  &lt;string&gt;11:35:00 AM&lt;/string&gt;
+  &lt;string&gt;12:35:00 PM&lt;/string&gt;
+  &lt;string&gt;01:15:00 PM&lt;/string&gt;
+  &lt;string&gt;02:00:00 PM&lt;/string&gt;
+  &lt;string&gt;03:00:00 PM&lt;/string&gt;
+  &lt;string&gt;04:00:00 PM&lt;/string&gt;
+  &lt;string&gt;04:00:17 PM&lt;/string&gt;
+  &lt;string&gt;04:01:10 PM&lt;/string&gt;
+  &lt;string&gt;04:04:00 PM&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="allday" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;09:25:00 AM&lt;/string&gt;
+  &lt;string&gt;09:30:00 AM&lt;/string&gt;
+  &lt;string&gt;09:30:22 AM&lt;/string&gt;
+  &lt;string&gt;10:30:00 AM&lt;/string&gt;
+  &lt;string&gt;11:30:00 AM&lt;/string&gt;
+  &lt;string&gt;11:35:00 AM&lt;/string&gt;
+  &lt;string&gt;12:35:00 PM&lt;/string&gt;
+  &lt;string&gt;01:15:00 PM&lt;/string&gt;
+  &lt;string&gt;01:30:00 PM&lt;/string&gt;
+  &lt;string&gt;02:30:00 PM&lt;/string&gt;
+  &lt;string&gt;03:30:00 PM&lt;/string&gt;
+  &lt;string&gt;03:30:13 PM&lt;/string&gt;
+  &lt;string&gt;03:31:05 PM&lt;/string&gt;
+  &lt;string&gt;03:34:00 PM&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="prayerf" Type="System.String" Scope="User">
+      <Value Profile="(Default)">09:30:22 AM</Value>
+    </Setting>
+    <Setting Name="prayer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">09:30:22 AM</Value>
+    </Setting>
+    <Setting Name="nationalanthem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">03:30:13 PM</Value>
+    </Setting>
+    <Setting Name="nationalanthemf" Type="System.String" Scope="User">
+      <Value Profile="(Default)">04:00:17 PM</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
