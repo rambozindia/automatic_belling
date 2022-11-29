@@ -1,0 +1,44 @@
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\bin\Release\AutomaticBelling.exe.config
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\Interop.WMPLib.dll
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.csproj.ResolveComReference.cache
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\bin\Release\AutomaticBelling.exe
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\bin\Release\AutomaticBelling.pdb
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.AboutBox1.resources
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.Form1.resources
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.Properties.Resources.resources
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.Registration.resources
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.Settingsf.resources
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.exe
+F:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.pdb
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\bin\Release\AutomaticBelling.exe.config
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\Interop.WMPLib.dll
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.csproj.ResolveComReference.cache
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.exe
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.pdb
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\bin\Release\AutomaticBelling.exe
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\bin\Release\AutomaticBelling.pdb
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.AboutBox1.resources
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.Form1.resources
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.Properties.Resources.resources
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.Registration.resources
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.Settingsf.resources
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Work\C#\Automaic Belling\edited\AutomaticBelling\AutomaticBelling\obj\x86\Release\GenerateResource.write.1.tlog
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\bin\Release\AutomaticBelling.exe.config
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\obj\x86\Release\Interop.WMPLib.dll
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.csproj.ResolveComReference.cache
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.exe
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.pdb
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\bin\Release\AutomaticBelling.exe
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\bin\Release\AutomaticBelling.pdb
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.AboutBox1.resources
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.Form1.resources
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.Properties.Resources.resources
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\obj\x86\Release\AutomaticBelling.Settingsf.resources
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Work\C#\Automaic Belling\edited for moni\AutomaticBelling\AutomaticBelling\obj\x86\Release\GenerateResource.write.1.tlog
