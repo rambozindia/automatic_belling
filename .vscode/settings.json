@@ -1,3 +1,11 @@
 {
-    "nuxt.isNuxtApp": false
+    "nuxt.isNuxtApp": false,
+    "gitConfigUser.profiles": [
+        {
+            "label": "Ram Personal",
+            "email": "indianairforceall@gmail.com",
+            "userName": "Ramkumar R",
+            "selected": true
+        }
+    ]
 }
